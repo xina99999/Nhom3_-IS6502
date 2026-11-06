@@ -6,3 +6,7 @@ data/
 homework/
 md/
 note/
+
+# Local output of PR Flow demo
+pr-flow-site/
+__pycache__/
